@@ -63,4 +63,4 @@
 Остатки по итоговой модели распределены нормально, что говорит о хорошем качестве построения модели.
 <img src="https://i.ibb.co/xDCPRx6/output.png" alt="output" border="0">
 
-**Подробнее с работой можно ознакомиться в формате [notebook](https://gitlab.com/nikita.varlamov/ML_pet_project-main/-/blob/master/Bikerentalservice.ipynb) или [pdf](https://gitlab.com/nikita.varlamov/ML_pet_project-main/-/blob/master/Bikerentalservice.pdf).**
+**Подробнее с работой можно ознакомиться в формате [notebook](https://github.com/NikitaVarlamov/ML_project/blob/main/Bikerentalservice.ipynb) или [pdf](https://github.com/NikitaVarlamov/ML_project/blob/main/Bikerentalservice.pdf).**
